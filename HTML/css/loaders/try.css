@@ -1,0 +1,939 @@
+
+
+@media only screen and (min-width: 768px) {
+
+
+
+
+
+}
+@media only screen and (min-width: 1200px) {
+
+
+
+}
+@media only screen and (min-width: 1400px) {
+
+
+
+
+  /* <!-- =============================== design Icons start ======================================================= --> */
+  
+  .icon-floating-container1, .floating-icon1  {
+    position: absolute ;
+    top: 23%;
+    left: 53%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 10px;
+    z-index: 999;
+  
+  
+    width: 34px;
+    height: 34px;
+    animation: float 1.8s ease-in-out infinite;
+    transition: transform 0.3s;
+  }
+  
+  
+  .icon-floating-container2, .floating-icon2  {
+    position: absolute;
+    top: 12%;
+    left: 57%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 10px;
+    z-index: 999;
+  
+  
+    width: 44px;
+    height: 44px;
+    animation: float 1.8s ease-in-out infinite;
+    transition: transform 0.3s;
+  }
+  
+  .icon-floating-container3, .floating-icon3  {
+    position: absolute;
+    top: 12%;
+    left: 64%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 10px;
+    z-index: 999;
+  
+    width: 46px;
+    height: 46px;
+    animation: float 1.8s ease-in-out infinite;
+    transition: transform 0.3s;
+  }
+  
+  .icon-floating-container4, .floating-icon4  {
+    position: absolute;
+    top: 33%;
+    left: 68%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 10px;
+    z-index: 999;
+  
+  
+    width: 30px;
+    height: 30px;
+    animation: float 1.8s ease-in-out infinite;
+    transition: transform 0.3s;
+  }
+  
+  .icon-floating-container5, .floating-icon5  {
+    position: absolute;
+    top: 39%;
+    left: 60%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 10px;
+    z-index: 999;
+  
+  
+    width: 30px;
+    height: 20px;
+    animation: float 1.8s ease-in-out infinite;
+    transition: transform 0.3s;
+  }
+  
+  
+  
+  .icon-floating-container6, .floating-icon6  {
+    position: absolute;
+    top: 45%;
+    left: 65%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 10px;
+    z-index: 999;
+  
+  
+    width: 43px;
+    height: 43px;
+    animation: float 1.8s ease-in-out infinite;
+    transition: transform 0.3s;
+  }
+  
+  
+  
+  
+  .icon-floating-container7, .floating-icon7  {
+    position: absolute;
+    top: 40%;
+    left: 53%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 10px;
+    z-index: 999;
+  
+  
+    width: 60px;
+    height: 60px;
+    animation: float 1.8s ease-in-out infinite;
+    transition: transform 0.3s;
+  }
+  
+  
+  .icon-floating-container8, .floating-icon8  {
+    position: absolute;
+    top: 52%;
+    left: 57%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 10px;
+    z-index: 999;
+  
+  
+    width: 46px;
+    height: 46px;
+    animation: float 1.8s ease-in-out infinite;
+    transition: transform 0.3s;
+  }
+  
+  
+  .icon-floating-container9, .floating-icon9  {
+    position: absolute;
+    top: 27%;
+    left: 59%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 10px;
+    z-index: 999;
+  
+  
+    width: 40px;
+    height: 40px;
+    animation: float 1.8s ease-in-out infinite;
+    transition: transform 0.3s;
+  }
+  
+  
+  .icon-floating-container10, .floating-icon10  {
+    position: absolute;
+    top: 20%;
+    left: 58%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 10px;
+    z-index: 999;
+  
+  
+    width: 80px;
+    height: 80px;
+    animation: float 1.8s ease-in-out infinite;
+    transition: transform 0.3s;
+  }
+  
+  
+  
+  
+  
+  /* <!-- =============================== design Icons end ======================================================= -->
+  
+  
+  <!-- =============================== tech Icons start ======================================================= --> */
+  
+  
+  
+  .icon-floating-container11, .floating-icon11  {
+    position: absolute;
+    top: 23%;
+    left: 90%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 10px;
+    z-index: 999;
+  
+  
+    width: 45px;
+    height: 45px;
+    animation: float 1.8s ease-in-out infinite;
+    transition: transform 0.3s;
+  }
+  
+  
+  
+  
+  .icon-floating-container13, .floating-icon13  {
+    position: absolute;
+    top: 48%;
+    left: 90%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 10px;
+    z-index: 999;
+  
+  
+    width: 27px;
+    height: 27px;
+    animation: float 1.8s ease-in-out infinite;
+    transition: transform 0.3s;
+  }
+  
+  
+  .icon-floating-container14, .floating-icon14  {
+    position: absolute;
+    top: 49%;
+    left: 98%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 10px;
+    z-index: 999;
+  
+  
+    width: 40px;
+    height: 40px;
+    animation: float 1.8s ease-in-out infinite;
+    transition: transform 0.3s;
+  }
+  
+  
+  .icon-floating-container15, .floating-icon15  {
+    position: absolute;
+    top: 25%;
+    left: 82%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 10px;
+    z-index: 999;
+  
+  
+    width: 60px;
+    height: 60px;
+    animation: float 1.8s ease-in-out infinite;
+    transition: transform 0.3s;
+  }
+  
+  .icon-floating-container16, .floating-icon16  {
+    position: absolute;
+    top: 32%;
+    left: 88%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 10px;
+    z-index: 999;
+  
+  
+    width: 38px;
+    height: 38px;
+    animation: float 1.8s ease-in-out infinite;
+    transition: transform 0.3s;
+  }
+  
+  
+  .icon-floating-container17, .floating-icon17  {
+    position: absolute;
+    top: 29%;
+    left: 94%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 10px;
+    z-index: 999;
+  
+  
+    width: 62px;
+    height: 62px;
+    animation: float 1.8s ease-in-out infinite;
+    transition: transform 0.3s;
+  }
+  
+  
+  .icon-floating-container18, .floating-icon18  {
+    position: absolute;
+    top: 53%;
+    left: 90%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 10px;
+    z-index: 999;
+  
+  
+    width: 80px;
+    height: 80px;
+    animation: float 1.8s ease-in-out infinite;
+    transition: transform 0.3s;
+  }
+  
+  
+  .icon-floating-container19, .floating-icon19  {
+    position: absolute;
+    top: 13%;
+    left: 95%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 10px;
+    z-index: 999;
+  
+  
+    width: 43px;
+    height: 43px;
+    animation: float 1.8s ease-in-out infinite;
+    transition: transform 0.3s;
+  }
+  
+  
+  .icon-floating-container20, .floating-icon20  {
+    position: absolute;
+    top: 39%;
+    left: 84%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 10px;
+    z-index: 999;
+  
+  
+    width: 40px;
+    height: 40px;
+    animation: float 1.8s ease-in-out infinite;
+    transition: transform 0.3s;
+  }
+  
+  .icon-floating-container21, .floating-icon21  {
+    position: absolute;
+    top: 36%;
+    left: 94%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 10px;
+    z-index: 999;
+  
+  
+    width: 50px;
+    height: 50px;
+    animation: float 1.8s ease-in-out infinite;
+    transition: transform 0.3s;
+  }
+  
+  
+  .icon-floating-container22, .floating-icon22  {
+    position: absolute;
+    top: 10%;
+    left: 85%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 10px;
+    z-index: 999;
+  
+  
+    width: 50px;
+    height: 50px;
+    animation: float 1.8s ease-in-out infinite;
+    transition: transform 0.3s;
+  }
+  }
+
+@media only screen and (min-width: 1600px) {
+
+
+
+
+/* <!-- =============================== design Icons start ======================================================= --> */
+
+.icon-floating-container1, .floating-icon1  {
+  position: absolute ;
+  top: 23%;
+  left: 51%;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 10px;
+  z-index: 999;
+
+
+  width: 40px;
+  height: 40px;
+  animation: float 1.8s ease-in-out infinite;
+  transition: transform 0.3s;
+}
+
+
+.icon-floating-container2, .floating-icon2  {
+  position: absolute;
+  top: 9%;
+  left: 54%;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 10px;
+  z-index: 999;
+
+
+  width: 40px;
+  height: 40px;
+  animation: float 1.8s ease-in-out infinite;
+  transition: transform 0.3s;
+}
+
+.icon-floating-container3, .floating-icon3  {
+  position: absolute;
+  top: 10%;
+  left: 60%;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 10px;
+  z-index: 999;
+
+  width: 40px;
+  height: 40px;
+  animation: float 1.8s ease-in-out infinite;
+  transition: transform 0.3s;
+}
+
+.icon-floating-container4, .floating-icon4  {
+  position: absolute;
+  top: 30%;
+  left: 66%;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 10px;
+  z-index: 999;
+
+
+  width: 30px;
+  height: 30px;
+  animation: float 1.8s ease-in-out infinite;
+  transition: transform 0.3s;
+}
+
+.icon-floating-container5, .floating-icon5  {
+  position: absolute;
+  top: 35%;
+  left: 60%;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 10px;
+  z-index: 999;
+
+
+  width: 30px;
+  height: 20px;
+  animation: float 1.8s ease-in-out infinite;
+  transition: transform 0.3s;
+}
+
+
+
+.icon-floating-container6, .floating-icon6  {
+  position: absolute;
+  top: 40%;
+  left: 65%;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 10px;
+  z-index: 999;
+
+
+  width: 40px;
+  height: 40px;
+  animation: float 1.8s ease-in-out infinite;
+  transition: transform 0.3s;
+}
+
+
+
+
+.icon-floating-container7, .floating-icon7  {
+  position: absolute;
+  top: 35%;
+  left: 53%;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 10px;
+  z-index: 999;
+
+
+  width: 60px;
+  height: 60px;
+  animation: float 1.8s ease-in-out infinite;
+  transition: transform 0.3s;
+}
+
+
+.icon-floating-container8, .floating-icon8  {
+  position: absolute;
+  top: 45%;
+  left: 58%;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 10px;
+  z-index: 999;
+
+
+  width: 40px;
+  height: 40px;
+  animation: float 1.8s ease-in-out infinite;
+  transition: transform 0.3s;
+}
+
+
+.icon-floating-container9, .floating-icon9  {
+  position: absolute;
+  top: 24%;
+  left: 58%;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 10px;
+  z-index: 999;
+
+
+  width: 40px;
+  height: 40px;
+  animation: float 1.8s ease-in-out infinite;
+  transition: transform 0.3s;
+}
+
+
+.icon-floating-container10, .floating-icon10  {
+  position: absolute;
+  top: 20%;
+  left: 58%;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 10px;
+  z-index: 999;
+
+
+  width: 80px;
+  height: 80px;
+  animation: float 1.8s ease-in-out infinite;
+  transition: transform 0.3s;
+}
+
+
+
+
+
+/* <!-- =============================== design Icons end ======================================================= -->
+
+
+<!-- =============================== tech Icons start ======================================================= --> */
+
+
+
+.icon-floating-container11, .floating-icon11  {
+  position: absolute;
+  top: 20%;
+  left: 1%;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 10px;
+  z-index: 999;
+
+
+  width: 50px;
+  height: 50px;
+  animation: float 1.8s ease-in-out infinite;
+  transition: transform 0.3s;
+}
+
+
+
+
+.icon-floating-container13, .floating-icon13  {
+  position: absolute;
+  top: 45%;
+  left: 87%;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 10px;
+  z-index: 999;
+
+
+  width: 24px;
+  height: 24px;
+  animation: float 1.8s ease-in-out infinite;
+  transition: transform 0.3s;
+}
+
+
+.icon-floating-container14, .floating-icon14  {
+  position: absolute;
+  top: 43%;
+  left: 95%;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 10px;
+  z-index: 999;
+
+
+  width: 50px;
+  height: 50px;
+  animation: float 1.8s ease-in-out infinite;
+  transition: transform 0.3s;
+}
+
+
+.icon-floating-container15, .floating-icon15  {
+  position: absolute;
+  top: 20%;
+  left: 80%;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 10px;
+  z-index: 999;
+
+
+  width: 60px;
+  height: 60px;
+  animation: float 1.8s ease-in-out infinite;
+  transition: transform 0.3s;
+}
+
+.icon-floating-container16, .floating-icon16  {
+  position: absolute;
+  top: 32%;
+  left: 92%;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 10px;
+  z-index: 999;
+
+
+  width: 40px;
+  height: 40px;
+  animation: float 1.8s ease-in-out infinite;
+  transition: transform 0.3s;
+}
+
+
+.icon-floating-container17, .floating-icon17  {
+  position: absolute;
+  top: 21%;
+  left: 87%;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 10px;
+  z-index: 999;
+
+
+  width: 60px;
+  height: 60px;
+  animation: float 1.8s ease-in-out infinite;
+  transition: transform 0.3s;
+}
+
+
+.icon-floating-container18, .floating-icon18  {
+  position: absolute;
+  top: 50%;
+  left: 90%;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 10px;
+  z-index: 999;
+
+
+  width: 80px;
+  height: 80px;
+  animation: float 1.8s ease-in-out infinite;
+  transition: transform 0.3s;
+}
+
+
+.icon-floating-container19, .floating-icon19  {
+  position: absolute;
+  top: 10%;
+  left: 89%;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 10px;
+  z-index: 999;
+
+
+  width: 45px;
+  height: 45px;
+  animation: float 1.8s ease-in-out infinite;
+  transition: transform 0.3s;
+}
+
+
+.icon-floating-container20, .floating-icon20  {
+  position: absolute;
+  top: 33%;
+  left: 82%;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 10px;
+  z-index: 999;
+
+
+  width: 50px;
+  height: 50px;
+  animation: float 1.8s ease-in-out infinite;
+  transition: transform 0.3s;
+}
+
+.icon-floating-container21, .floating-icon21  {
+  position: absolute;
+  top: 21%;
+  left: 94%;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 10px;
+  z-index: 999;
+
+
+  width: 50px;
+  height: 50px;
+  animation: float 1.8s ease-in-out infinite;
+  transition: transform 0.3s;
+}
+
+
+.icon-floating-container22, .floating-icon22  {
+  position: absolute;
+  top: 10%;
+  left: 81%;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 10px;
+  z-index: 999;
+
+
+  width: 50px;
+  height: 50px;
+  animation: float 1.8s ease-in-out infinite;
+  transition: transform 0.3s;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="marquee">
+          <div class="marquee__inner">
+            <div class="marquee__part">
+              CV/Resume & Creative Portfolio
+              <div class="star">
+                <i class="ph-bold ph-star-four"></i>
+              </div>
+            </div>
+            <div class="marquee__part">
+              CV/Resume & Creative Portfolio
+              <!-- <div class="star">
+                <i class="ph-bold ph-star-four"></i>
+              </div> -->
+            </div>
+            <div class="marquee__part">
+              CV/Resume & Creative Portfolio
+              <!-- <div class="star">
+                <i class="ph-bold ph-star-four"></i>
+              </div> -->
+            </div>
+            <div class="marquee__part">
+              CV/Resume & Creative Portfolio
+              <!-- <div class="star">
+                <i class="ph-bold ph-star-four"></i>
+              </div> -->
+            </div>
+            <div class="marquee__part">
+              CV/Resume & Creative Portfolio
+              <!-- <div class="star">
+                <i class="ph-bold ph-star-four"></i>
+              </div> -->
+            </div>
+            <div class="marquee__part">
+              CV/Resume & Creative Portfolio
+              <!-- <div class="star">
+                <i class="ph-bold ph-star-four"></i>
+              </div> -->
+            </div>
+            <div class="marquee__part">
+              CV/Resume & Creative Portfolio
+              <!-- <div class="star">
+                <i class="ph-bold ph-star-four"></i>
+              </div> -->
+            </div>
+            <div class="marquee__part">
+              CV/Resume & Creative Portfolio
+              <!-- <div class="star">
+                <i class="ph-bold ph-star-four"></i>
+              </div> -->
+            </div>
+            <div class="marquee__part">
+              CV/Resume & Creative Portfolio
+              <!-- <div class="star">
+                <i class="ph-bold ph-star-four"></i>
+              </div> -->
+            </div>
+          </div>
+        </div>
