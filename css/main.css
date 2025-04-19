@@ -2600,6 +2600,7 @@ form textarea:required:valid {
 }
 .content__block.section-grid-title {
   margin-bottom: 1.4rem;
+  margin-top: 5rem;
 }
 .content__block.block-large {
   margin-bottom: 11rem;
@@ -3458,8 +3459,9 @@ form textarea:required:valid {
   color: var(--t-bright);
 }
 .gallery__descr .rounded-tag.opposite {
-  background-color: var(--base-opp);
-  color: var(--t-opp-bright);
+  background-color: var(--base);
+  
+  color: var(--t-bright);
 }
 @media only screen and (min-width: 1400px) {
   .gallery__descr {
@@ -4281,3 +4283,25 @@ form textarea:required:valid {
 /* ------------------------------------------------*/
 /* Features Socials End */
 /* ------------------------------------------------*/
+
+
+
+
+
+.heading_colour
+{
+  background-color: #567cfa;
+  color: #000;
+}
+
+
+.skagnihotri
+{
+  color: white;
+}
+
+
+
+
+
+
