@@ -3037,8 +3037,11 @@ form textarea:required:valid {
 }
 
 .logo__image {
-  width: 60px;
-  height: 60px;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .logo__image svg {
   width: 100%;
@@ -4290,7 +4293,7 @@ form textarea:required:valid {
 
 .heading_colour
 {
-  background-color: #567cfa;
+  background-color: #ffffff;
   color: #000;
 }
 
@@ -4305,3 +4308,15 @@ form textarea:required:valid {
 
 
 
+.theme-img {
+  display: none;
+}
+
+/* Show the correct one based on theme */
+[color-scheme="light"] .light-img {
+  display: block;
+}
+
+[color-scheme="dark"] .dark-img {
+  display: block;
+}

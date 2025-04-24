@@ -2534,7 +2534,7 @@ a {
 }
 
 .btn-hover-transparent::before {
-  background-color: rgb(27, 27, 84);
+  background-color: rgb(50, 50, 50);
   -webkit-backdrop-filter: blur(8px);
           backdrop-filter: blur(8px);
 
@@ -2545,7 +2545,7 @@ a {
           ;
 }
 .btn-hover-transparent i, .btn-hover-transparent span {
-  text-shadow: 0 0 var(--t-bright), 0 5rem var(--t-disabled);
+  text-shadow: 0 0 #ffffff, 0 5rem var(--t-disabled);
 }
 @media only screen and (min-width: 1200px) {
   .no-touch .btn-hover-transparent:hover i, .no-touch .btn-hover-transparent:hover span {
@@ -2752,8 +2752,11 @@ a {
 }
 
 .logo__image {
-  width: 5rem;
-  height: 5rem;
+  width: 8rem;
+  height: 8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .logo__image svg {
   width: 100%;
@@ -3130,7 +3133,7 @@ a {
        background-size: 250%;
   /* background-image: url(../img/demo/2560x1440-bg-footer.webp); */
 
-  background-color: #171717;
+  /* background-color: #171717; */
 }
 @media only screen and (min-width: 768px) {
   .demo__footer {
@@ -3385,3 +3388,8 @@ a {
     .shooting-star {
       pointer-events: none;
     }
+
+
+
+
+

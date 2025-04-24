@@ -175,7 +175,10 @@
       <div class="avatar__container d-flex flex-column justify-content-lg-between">
         <div class="avatar__block">
           <div class="avatar__logo d-flex align-items-center">
-            <div class="logo__image">
+
+
+
+            <!-- <div class="logo__image">
               <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
                 width="85px" height="85px" viewBox="0 0 85 85" 
                 style="enable-background:new 0 0 85 85;" xml:space="preserve" class="gradient-fill">
@@ -199,7 +202,33 @@
                     h-3.9h-3.9h-3.9H35.7z M59.2,39.3h-3.9v-3.9h3.9V39.3z M55.3,43.2h-3.9v-3.9h3.9V43.2z"/>
                 </g>
               </svg>
+
+
+
+
+
+
+
+
+            </div> -->
+
+
+            <div class="logo__image">
+              <!-- Light Theme Logo (visible by default) -->
+              <img src="img/logo/light.svg" width="95" height="95" alt="Logo" class="logo-light  theme-img dark-img" />
+            
+              <!-- Dark Theme Logo (hidden by default) -->
+              <img src="img/logo/dark.svg" width="95" height="95" alt="Logo" class="logo-dark theme-img light-img" />
             </div>
+
+
+
+
+
+
+
+
+
             <div class="logo__caption">
               <p itemprop="brand">Design<br>Dharm</p>
             </div>
@@ -245,7 +274,7 @@
           </div>
           <div class="avatar__btnholder">
             <a class="btn btn-default btn-fullwidth btn-hover btn-hover-accent" href="#contact">
-              <span class="btn-caption">Let's Work Together!</span>
+              <span class="btn-caption">Contact US</span>
             </a>
           </div>
         </div>
@@ -1157,6 +1186,31 @@
         });
         });
       });
+
+
+
+            // Theme toggle
+        function toggleTheme() 
+        {
+
+            const body = document.body;
+            const currentTheme = body.getAttribute("data-theme");
+            const newTheme = currentTheme === "dark" ? "light" : "dark";
+            body.setAttribute("data-theme", newTheme);
+            body.style.background = newTheme === "dark" ? "black" : "white";
+
+        }
+
+
+
+
+
+
+
+
+
+
+
     </script>
     
     
